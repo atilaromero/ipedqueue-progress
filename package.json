@@ -1,0 +1,18 @@
+{
+  "name": "event-mongoprogress",
+  "version": "1.0.0",
+  "description": "Listen for events and update progress field on mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atilaromero@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "config": "1.26.2",
+    "eventsource": "git+https://github.com/atilaromero/eventsource.git",
+    "js-yaml": "3.9.1",
+    "mongodb": "2.2.31"
+  }
+}
