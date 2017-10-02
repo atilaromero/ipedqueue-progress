@@ -1,6 +1,6 @@
 {
   "name": "event-mongoprogress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Listen for events and update progress field on mongo",
   "main": "index.js",
   "scripts": {
