@@ -10,7 +10,7 @@
   "author": "atilaromero@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "config": "1.26.2",
+    "config": "1.31.0",
     "eventsource": "git+https://github.com/atilaromero/eventsource.git",
     "js-yaml": "3.9.1",
     "mongodb": "2.2.31"
